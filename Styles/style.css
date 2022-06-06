@@ -307,13 +307,14 @@ nav{
 
 }
 
-.ques-cont{
+.que-cont{
     display: flex;
     justify-content: space-between;
+    background-color: rgb(46, 43, 43);
+    padding: 0rem 1rem;
 }
 
 .question{
-    background-color: rgb(46, 43, 43);
     padding: 0.8rem;
     
 }
